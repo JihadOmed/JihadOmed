@@ -1,3 +1,8 @@
+<!-- 🖋️ Enhanced Typing SVG Banner - White Bold Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&height=60&color=FFFFFF&lines=Hi%2C+I'm+Jihad+Omed+%F0%9F%91%8B;Aspiring+Data+Science+%7C+Machine+Learning;Turning+data+into+clear+stories+and+decisions;Always+learning+and+experimenting+%F0%9F%9A%80;Let%27s+connect+and+build+together+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 - 💡 Passionate about using data science to uncover insights and support smart decisions  <br>- 🔍 Driven by curiosity and a desire to solve real-world problems through data  <br>- 🧠 Continuously learning to grow my skills in analytics, modeling, and strategy  <br>- 📈 Focused on translating complex data into meaningful, actionable stories  <br>- 🌟 Committed to personal and professional growth in the data science journey 
 
