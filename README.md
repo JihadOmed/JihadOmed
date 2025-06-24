@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💡 Passionate about using data science to uncover insights and support smart decisions  <br>- 🔍 Driven by curiosity and a desire to solve real-world problems through data  <br>- 🧠 Continuously learning to grow my skills in analytics, modeling, and strategy  <br>- 📈 Focused on translating complex data into meaningful, actionable stories  <br>- 🌟 Committed to personal and professional growth in the data science journey  <br>- 🤝 Always open to connect, collaborate, and learn from others in the field
+- 💡 Passionate about using data science to uncover insights and support smart decisions  <br>- 🔍 Driven by curiosity and a desire to solve real-world problems through data  <br>- 🧠 Continuously learning to grow my skills in analytics, modeling, and strategy  <br>- 📈 Focused on translating complex data into meaningful, actionable stories  <br>- 🌟 Committed to personal and professional growth in the data science journey 
 
 
 ## 🌐 Socials:
