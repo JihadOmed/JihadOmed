@@ -45,6 +45,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?style=for-the-badge&logo=yolo&logoColor=black)
 
+## 🧠 LeetCode Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jihadsalay18?ext=contest&theme=dark)](https://leetcode.com/jihadsalay18/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JihadOmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
