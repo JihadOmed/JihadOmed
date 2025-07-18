@@ -12,8 +12,10 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:Jihadsalay18@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)](https://www.kaggle.com/jihadomed)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat)](https://leetcode.com/u/jihadsalay18/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat)](https://www.hackerrank.com/profile/jihadsalay18)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFCA28?logo=huggingface&logoColor=black&style=flat)](https://huggingface.co/JihadOmed)
 [![StrataScratch](https://img.shields.io/badge/StrataScratch-13294B?style=flat&logo=codeforces&logoColor=white)](https://platform.stratascratch.com/user/JihadOmed)
+
 
 
 
