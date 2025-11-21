@@ -1,6 +1,6 @@
 <!-- 🖋️ Enhanced Typing SVG Banner - White Bold Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&height=60&color=FFFFFF&lines=Hi%2C+I'm+Jihad+Omed+%F0%9F%91%8B;Aspiring+Data+Science+%7C+Machine+Learning;Turning+data+into+clear+stories+and+decisions;Always+learning+and+experimenting+%F0%9F%9A%80;Let%27s+connect+and+build+together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=800&height=60&color=FFFFFF&lines=Hi%2C+I'm+Jihad+Omed+%F0%9F%91%8B;Jr+Data+Engineer;" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
